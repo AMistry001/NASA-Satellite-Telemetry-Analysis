@@ -1,1 +1,2 @@
 # NASA-Satellite-Telemetry-Analysis
+This is an analysis of NASA telemetry data of an unnamed satellite in Low Earth Orbit. Using various observations such as the temperatures of the various satellite components (such as its solar panels, antennae, and boost converters), as well as battery information, we try to determine the period and speed of the satellite's orbit around Earth. This project covers data preprocessing, data cleaning, dataframe parsing, and visualization using the MatPlotLib package.
